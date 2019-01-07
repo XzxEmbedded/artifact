@@ -37,3 +37,5 @@
 	Runing command: cscope -Rbq
 
 	Open file: vim file
+
+[learning link](http://vimdoc.sourceforge.net/htmldoc/if_cscop.html)
