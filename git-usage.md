@@ -49,3 +49,12 @@
 ## cherry-pick
 	merge anther branch commit id to current branch
 	git cherry-pick commit-id
+
+## git add -u
+	Add modify files into working area again
+
+## git reset HEAD
+	Recover working area
+
+## git remote add remote-repo-name https://xzx.git(remote-repo-address)
+	Add new remote repo
