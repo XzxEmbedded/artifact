@@ -12,6 +12,7 @@
 # (8) make -n or --just-print, only showing command and it can using debug your Makefile.
 # (9) make -w or --print-directory, showing current directory.
 # (10) =, :=, ?=; variable assignment.
+# (11) if statement: ifeq else endif; ifdef/ifndef variable else endif
 #
 # Replace:
 # foo := a.o b.o c.o; bar := $(foo:.o=.c) / bar := $(foo:%.o=%.c)
@@ -22,7 +23,7 @@ SHELL = /bin/bash
 
 # := symbol: right varible follow left varible changing
 DATE := $(shell date +%Y-%m-%d)
-GIT_VERSION := $(shell git rev-parse HEAD | cut -c 1-6)
+GIT_VERSION := $(shell git rev-parse HEAD | cut -c 1-8)
 
 # -D varible used C Language
 CFLAGS += -DMK_VERSION='"Makefile-$(GIT_VERSION)"'
