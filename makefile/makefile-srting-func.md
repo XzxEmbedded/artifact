@@ -1,4 +1,4 @@
-# Makefile functions
+# Makefile string functions
 
 	Usage: $(<function> <arguments>) or ${<function> <arguments>}
 
