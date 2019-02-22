@@ -5,7 +5,9 @@
 	git config --list
 
 ## help dispaly
-	git --help log or show or commit
+	detail messages: git --help log or show or commit
+
+	brief messages: git log/show/commit -h
 
 ## combine root commit
 	git rebase -i --root
