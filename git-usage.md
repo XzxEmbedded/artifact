@@ -60,3 +60,13 @@
 
 ## git remote add remote-repo-name https://xzx.git(remote-repo-address)
 	Add new remote repo
+
+## git checkout
+	git checkout file-name, it will back to modifying file.
+	git checkout branch-name, it will change branch.
+
+## git clean
+	Clean not staged files.
+	-n: try running
+	-f: delete file
+	-d: delete directory
