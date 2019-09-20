@@ -70,3 +70,6 @@
 	-n: try running
 	-f: delete file
 	-d: delete directory
+
+## git describe
+	git describe --match=NeVeRmAtCh --always --abbrev=7 --dirty=t
