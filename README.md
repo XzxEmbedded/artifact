@@ -1,6 +1,6 @@
 # Tools learning records
 
-Inclued Linux/Git/Vim/Markdown/Makefile learning records
+Inclued Linux/Git/Vim/Markdown/Makefile/Flow Chat tools learning records
 
 [Linux archive kernel](http://archive.kernel.org/)
 
@@ -8,6 +8,6 @@ Inclued Linux/Git/Vim/Markdown/Makefile learning records
 
 [Vim learning link](http://vimcasts.org/categories/)
 
-[Flow chat tools: dia](https://www.draw.io/)
+[Flow chat web tools/local tools dia](https://www.draw.io/)
 
 [MySql](https://www.runoob.com/mysql/mysql-tutorial.html)
