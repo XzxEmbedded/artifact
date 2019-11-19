@@ -11,3 +11,5 @@ Inclued Linux/Git/Vim/Markdown/Makefile/Flow Chat tools learning records
 [Flow chat web tools/local tools dia](https://www.draw.io/)
 
 [MySql](https://www.runoob.com/mysql/mysql-tutorial.html)
+
+[CMake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
